@@ -49,13 +49,13 @@ There are 3 courses in this specialisation which walks through
 ## Hands on Lab (HOL)
 
 For Hands on Lab a VM is used, which system requirements are 
-   - Windows, macOS, or Linux operating system (iPads and Android tablets will not work)
-    - 64-bit operating system (32-bit operating systems will not work)
-    - 8 GB RAM or more
-    - 25GB free disk space or more
-    - Intel VT-x or AMD-V virtualization support enabled (on Mac computers with Intel processors, this is always enabled;
-    on Windows and Linux computers, you might need to enable it in the BIOS)
-    - For Windows XP computers only: You must have an unzip utility such as 7-Zip or WinZip installed (Windows XP’s built-in unzip utility will not work)
+- Windows, macOS, or Linux operating system (iPads and Android tablets will not work)
+- 64-bit operating system (32-bit operating systems will not work)
+- 8 GB RAM or more
+- 25GB free disk space or more
+- Intel VT-x or AMD-V virtualization support enabled (on Mac computers with Intel processors, this is always enabled;
+on Windows and Linux computers, you might need to enable it in the BIOS)
+- For Windows XP computers only: You must have an unzip utility such as 7-Zip or WinZip installed (Windows XP’s built-in unzip utility will not work)
 
 This Virtual Machine has an OS of CentOS version 6.8. Which has pre-installed 
 - Hue Interface for SQL Engines.
